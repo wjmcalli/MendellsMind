@@ -1,1 +1,1 @@
-# MendellsMind
+# Mendell's Mind
